@@ -1,0 +1,6 @@
+.npmignore
+.gitignore
+circle.yml
+
+coverage/
+test/
