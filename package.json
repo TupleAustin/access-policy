@@ -3,7 +3,6 @@
   "version": "3.0.0",
   "description": "Encodes and decodes policy JSON files for use with web applications.",
   "main": "index.js",
-  "private": true,
   "scripts": {
     "test": "istanbul cover _mocha",
     "mocha": "mocha -G -w",
@@ -17,7 +16,7 @@
     "JWT",
     "policy"
   ],
-  "author": "Jay Morrow <j.morrow@wearetuple.co>",
+  "author": "Tuple Labs, LLC <hello@wearetuple.co>",
   "bugs": {
     "url": "https://github.com/TupleAustin/access-policy/issues"
   },
